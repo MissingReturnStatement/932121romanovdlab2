@@ -1,0 +1,44 @@
+.lab2_up{
+    font-size: 200%;
+    background-color: darkgray;
+    padding-bottom: 5%;
+}
+.lab2_left{
+    background-color: rgb(164, 236, 164);
+    float: left;
+    width: 25%;
+}
+.lab2_spec{
+    color: red;
+}
+.lab2_cont{
+    margin-left: 240px;
+    margin-right: 210px;
+    background-color: white;
+}
+div{
+    padding: 1px;
+}
+.lab2_right{
+    background-color: rgb(240, 208, 70);
+    float: right;
+    width: 200px;
+}
+.blue_cont{
+    background-color: blue;
+    color: white;
+    width: 40%;
+    padding: 10%;
+    border: 10%;
+    border-color: blue;
+    margin-left: auto;
+    margin-right: auto;
+}
+.green_cont{
+    background-color: green;
+    color: white;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}

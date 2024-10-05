@@ -1,0 +1,20 @@
+.lab2_up{
+    font-size: 200%;
+    background-color: darkgray;
+    padding-bottom: 5%;
+}
+.lab2_left{
+    background-color: rgb(164, 236, 164);
+    float: left;
+    width: 200px;
+}
+.lab2_spec{
+    color: red;
+}
+.lab2_cont{
+    margin-left: 210px;
+    background-color: white;
+}
+div{
+    padding: 1px;
+}

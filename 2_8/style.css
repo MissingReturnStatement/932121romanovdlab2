@@ -1,0 +1,138 @@
+.lab2_up{
+    font-size: 200%;
+    background-color: darkgray;
+    padding-bottom: 5%;
+}
+.lab2_left{
+    background-color: rgb(164, 236, 164);
+    float: left;
+    width: 25%;
+}
+.lab2_spec{
+    color: red;
+}
+.lab2_cont{
+    margin-left: 240px;
+    margin-right: 210px;
+    background-color: white;
+}
+div{
+    padding: 1px;
+}
+.lab2_right{
+    background-color: rgb(240, 208, 70);
+    float: right;
+    width: 200px;
+}
+.blue_cont{
+    background-color: blue;
+    color: white;
+    width: 40%;
+    padding: 10%;
+    border: 10%;
+    border-color: blue;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+.green_cont{
+    background-color: green;
+    color: white;
+    width: 40%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+.upper_cont{
+    width: 470px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+.bottom_cont{
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    padding:50px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: blue;
+}
+.static_div{
+    position: static;
+    left: 10px;
+    top: 10px;
+    width: 200px;
+    height: 120px;
+    background-color: blueviolet;
+    color: white;
+}
+.redrelative_div{
+    position: relative;
+    width: 200px;
+    height: 120px;
+    background-color: rgb(119, 4, 4);
+    color: white;
+}
+.orngrelative_div{
+    position: relative;
+    left: 40px;
+    bottom: 40px;
+    width: 200px;
+    height: 120px;
+    background-color: orange;
+    color: white;
+}
+.pinkrelative_div{
+    position: relative;
+    width: 600px;
+    height: 500px;
+    background-color: pink;
+    color: white;
+}
+.absolute_div{
+    position: relative;
+    left: 300px;
+    top: 125px;
+    width: 300px;
+    height: 250px;
+    background-color: rgb(70, 1, 70);
+    color: white;
+}
+.fixed_div{
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    width: 120px;
+    height: 120px;
+    background-color: green;
+    color: white;
+}
+.wrapper{
+    background-color: aqua;
+    padding: 0;
+    margin: 0;
+}
+.menu{
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: 300px;
+    background-color: darksalmon;
+}
+.content{
+    top: 0;
+    min-height: 300px;
+    margin-left: 300px;
+    background-color: gray;
+}
+.green_bottom{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-color: greenyellow;
+    height: 80px;
+}
